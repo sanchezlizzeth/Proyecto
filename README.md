@@ -1,4 +1,4 @@
-##Sistema de proyeto
+##Sistema de Electronica
 
 
 #Descripcion
