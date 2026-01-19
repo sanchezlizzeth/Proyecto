@@ -11,11 +11,11 @@ Mi aplicacion es para resolver una problematica de una tienda de electronica don
 
 RF1: Registrar productos electrónicos (laptops, teléfonos, accesorios).
 
-RF2: Visualizar el inventario actualizado en tiempo real.ç
+RF2: Visualizar el inventario actualizado en tiempo real.
 
 RF3: Filtrar productos por categoría, marca y precio.
 
-RF4: Registrar ventas y descontar automáticamente el stock.
+RF4: Registrar ventas y tener acceso al contacto rapidamente
 
 RF5: Autenticar usuarios (administrador y vendedor).
 
