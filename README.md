@@ -7,7 +7,7 @@ Se realizara un sitio web donde venderemos los mejores productos de electronica
 Mi sitio web está diseñada para resolver las principales problemáticas que enfrentan los clientes al comprar en una tienda de electrónica. Actualmente, los usuarios suelen perder tiempo buscando productos, enfrentan dificultades para acceder a información de contacto inmediata y no siempre encuentran métodos de pago accesibles o promociones claras.
 
 
-# #Requerimientos Funcionales (El “Qué hace”)
+## Requerimientos Funcionales (El “Qué hace”)
 
 RF1: Registrar productos electrónicos (laptops, teléfonos, accesorios).
 
