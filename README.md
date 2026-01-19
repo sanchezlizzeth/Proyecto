@@ -1,9 +1,9 @@
-# #Sistema de Electronica
+## Sistema de Electronica
 
 Se realizara un sitio web donde venderemos los mejores productos de electronica 
  ![rob](https://github.com/user-attachments/assets/c506b24a-84e2-4407-953e-87b2917176eb)
 
-# #Descripcion
+## Descripcion
 Mi sitio web está diseñada para resolver las principales problemáticas que enfrentan los clientes al comprar en una tienda de electrónica. Actualmente, los usuarios suelen perder tiempo buscando productos, enfrentan dificultades para acceder a información de contacto inmediata y no siempre encuentran métodos de pago accesibles o promociones claras.
 
 
