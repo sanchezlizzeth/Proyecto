@@ -2,8 +2,8 @@
 <p align="right"><b><h1>ELECTROMUNDO</h1></b></p>
 
 Se realizara un sitio web donde venderemos los mejores productos de electronica 
-
 ![Uploading Logo llamado 'Electr.png…]()
+
 
 ## Descripcion
 Mi sitio web está diseñada para resolver las principales problemáticas que enfrentan los clientes al comprar en una tienda de electrónica. Actualmente, los usuarios suelen perder tiempo buscando productos, enfrentan dificultades para acceder a información de contacto inmediata y no siempre encuentran métodos de pago accesibles o promociones claras.
