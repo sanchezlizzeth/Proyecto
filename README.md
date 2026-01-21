@@ -2,7 +2,6 @@
 <p align="right"><b><h1>ELECTROMUNDO</h1></b></p>
 
 Se realizara un sitio web donde venderemos los mejores productos de electronica 
-
 ![Uploading Logo llamado 'Electr.png…]()
 
 ## Descripcion
