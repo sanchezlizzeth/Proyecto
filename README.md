@@ -35,13 +35,13 @@ RF5: Portabilidad debe poder ejecutarse en diferentes navegadores modernos (Chro
 
 ## Tecnologías y Herramientas del Ecosistema
 
-#Manejo de Estado Global
+# Manejo de Estado Global
 Herramienta: Context API (React Context)
 ¿Por qué? Se utilizará Context API porque el proyecto necesita compartir información entre varias pantallas sin pasar props manualmente, por ejemplo:
 Usuario (admin / vendedor)
 
 
-#Consumo de Datos
+# Consumo de Datos
 Herramienta: Axios + Fetch API (opcional)
 ¿De dónde vienen los datos?
 Los datos vendrán desde un backend con base de datos, por ejemplo:
@@ -51,7 +51,7 @@ Permite interceptores para tokens (seguridad)
 Mejor control de errores
 
  
-#Estilizado
+# Estilizado
 Herramienta: Tailwind CSS
 ¿Por qué?
 Permite diseño rápido y moderno
@@ -60,7 +60,7 @@ Mantiene un estilo consistente en toda la tienda
 Facilita crear botones, cards, banners y menús responsivos como el que ya estás trabajando
 
 
-#Despliegue
+# Despliegue
 Herramienta: Vercel
 ¿Por qué?
 Se utilizará Vercel porque:
@@ -68,6 +68,9 @@ Es ideal para proyectos en React
 El despliegue es automático desde GitHub
 Muy rápido y estable
 Permite tener el sitio disponible con facilidad (cumple el requisito de disponibilidad)
+
+# Diagrama de Flujo de Datos 
+
 <img width="4041" height="5999" alt="Untitled diagram-2026-01-22-043939" src="https://github.com/user-attachments/assets/a0eea668-3193-4706-b548-39ee0dd92daa" />
 
 
